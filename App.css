@@ -39,6 +39,12 @@ input {
   padding: 0 1rem;
 }
 
+@media (max-width: 40rem){
+  .container{
+    max-width: 80%;
+  }
+}
+
 .mainContainer{
   margin-top: 4rem;
 }
